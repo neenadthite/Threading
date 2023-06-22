@@ -1,0 +1,27 @@
+/ninad/Threading/src$ ./threadmutex
+Enter counter limit for thread X:
+10
+Enter counter limit for thread Y:
+10
+Tik Tik 0 for X thread
+Tik Tik 0 for Y thread
+Tik Tik 1 for Y thread
+Tik Tik 2 for Y thread
+Tik Tik 3 for Y thread
+Tik Tik 4 for Y thread
+Tik Tik 5 for Y thread
+Tik Tik 6 for Y thread
+Tik Tik 7 for Y thread
+Tik Tik 8 for Y thread
+Tik Tik 9 for Y thread
+Tik Tik 1 for X thread
+Tik Tik 2 for X thread
+Tik Tik 3 for X thread
+Tik Tik 4 for X thread
+Tik Tik 5 for X thread
+Tik Tik 6 for X thread
+Tik Tik 7 for X thread
+Tik Tik 8 for X thread
+Tik Tik 9 for X thread
+After Thread X
+After Thread Y
